@@ -1,4 +1,5 @@
 
+
 //ES6 Syntax simple promise
 const promise = new Promise((resolve, reject) => {
     if (true) {
